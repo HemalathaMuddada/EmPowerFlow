@@ -21,6 +21,8 @@ You can have an overview of our Spring Boot Server with the diagram below:
 <img width="525" alt="image" src="https://github.com/user-attachments/assets/9ab26a15-8389-4590-84bd-320a4104b38d">
 
 **Scripts**:
+
+
 CREATE TABLE users (
     id BIGSERIAL PRIMARY KEY,
     username VARCHAR(20) NOT NULL UNIQUE,
