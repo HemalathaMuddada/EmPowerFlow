@@ -13,12 +13,12 @@ Together, EmpowerFlow suggests a solution that empowers organizations with effic
 ## User Registration, User Login and Authorization process.
 The diagram shows flow of how we implement User Registration, User Login and Authorization process.
 
-![spring-boot-jwt-authentication-spring-security-flow](spring-boot-jwt-authentication-spring-security-flow.png)
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/d94639aa-3004-4fab-be4b-2a648c5386ea">
 
 ## Spring Boot Server Architecture with Spring Security
 You can have an overview of our Spring Boot Server with the diagram below:
 
-![spring-boot-jwt-authentication-spring-security-architecture](spring-boot-jwt-authentication-spring-security-architecture.png)
+<img width="525" alt="image" src="https://github.com/user-attachments/assets/9ab26a15-8389-4590-84bd-320a4104b38d">
 
 **Scripts**:
 CREATE TABLE users (
